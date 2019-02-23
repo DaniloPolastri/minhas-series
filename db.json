@@ -1,0 +1,30 @@
+{
+  "series": [
+    {
+      "id": 5,
+      "name": "ComediaTeste 3",
+      "status": "watching",
+      "genre": "Comédia",
+      "comment": "Teste"
+    },
+    {
+      "id": 10,
+      "name": "dawd",
+      "status": "watching",
+      "genre": "Drama",
+      "comment": "dawdaw"
+    },
+    {
+      "id": 11,
+      "name": "adwdaw",
+      "status": "watching",
+      "genre": "Comédia",
+      "comment": "dawd"
+    }
+  ],
+  "genres": [
+    "Comédia",
+    "Drama",
+    "Ação"
+  ]
+}
